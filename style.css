@@ -979,7 +979,7 @@ footer {
     margin-bottom: 0px;
     posi
   }
-  #travel-des{
+  #travel-des {
     position: relative;
     top: -40px;
     left: 40px;
@@ -998,13 +998,13 @@ footer {
     max-width: 484px;
     gap: 0px;
     margin-bottom: 0px;
+    margin-top: -90px;
   }
   .news-text{
     width: 100%;
     margin-bottom: 0px;
   }
   #subscribe {
-    border: 1px solid red;
     margin-left: -1px;
   }
   .news-photo{
